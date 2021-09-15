@@ -1,0 +1,80 @@
+.heading
+{
+font-size: 50px;
+width: 100%;
+margin: 0px;
+}
+#status
+{
+font-size: 18px;
+}
+body
+{
+background-size: cover;
+background-position: center;
+}
+canvas
+{
+box-shadow: 10px 10px 10px grey;
+border-radius: 10px;
+}
+#Bed_room
+{
+border-radius: 25px;
+font-size: 25px;
+width: 500px;
+background-color: white;
+font-weight: bolder;
+}
+#Bed_room:hover
+{
+color:blue;
+}
+#TV_and_AC
+{
+border-radius: 25px;
+font-size: 25px;
+width: 500px;
+background-color: white;
+font-weight: bolder;
+}
+#TV_and_AC:hover
+{
+color:green;
+}
+#Desk
+{
+border-radius: 25px;
+font-size: 25px;
+width: 500px;
+background-color: white;
+font-weight: bolder;
+}
+#Desk:hover
+{
+color:rgb(195, 0, 255);
+}
+#Bottles
+{
+border-radius: 25px;
+font-size: 25px;
+width: 500px;
+background-color: white;
+font-weight: bolder;
+}
+#Bottles:hover
+{
+color:rgb(11, 138, 143);
+}
+#Fruit_Basket
+{
+border-radius: 25px;
+font-size: 25px;
+width: 500px;
+background-color: white;
+font-weight: bolder;
+}
+#Fruit_Basket:hover
+{
+color:orange;
+}
